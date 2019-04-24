@@ -1,0 +1,11 @@
+html {
+	height: 300px;
+}
+
+body {
+	width: 450px;
+}
+
+.button {
+	display: block;
+}
